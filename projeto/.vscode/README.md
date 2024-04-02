@@ -1,18 +1,7 @@
-git init
-git add README.md
-git commit -m "first commit"
-git branch -M main
-git remote add origin https://github.com/Jamcarlos1/Projeto.git
-git push -u origin main
-
-git remote add origin https://github.com/Jamcarlos1/Projeto.git
-git branch -M main
-git push -u origin main
-
-<h1 align="center"> NLW #10 Copa </h1>
+<h1 align="center"> DevLinks </h1>
 
 <p align="center">
-Evento exclusivo e gratuito, promovido pela Rocketseat para ensino de tecnologias WEB.
+Projeto desenvolvido com base no curso discover, promovido pela Rocketseat ensino de tecnologias WEB.
 </p>
 
 <p align="center">
