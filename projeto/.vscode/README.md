@@ -7,18 +7,13 @@ Projeto desenvolvido com base no curso discover, promovido pela Rocketseat ensin
 <p align="center">
   <a href="#-tecnologias">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
-<p align="center">
-  <img alt="License" src="./assets/Devlinks.png">
-</p>
 
 <br>
 
 <p align="center">
-  <img alt="calendario da copa" src=".github/preview.jpg" width="100%">
+  <img alt="DevLinks" src="./assets/Devlinks.png" width="100%">
 </p>
 
 ## 🚀 Tecnologias
@@ -31,16 +26,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O Calendário da Copa é um projeto que mostra os jogos da Copa de 2022.
+DevLinks acesso a diversos links como instagram, linkedln, github, youtube.
 
-## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/file/J1Z33MISC22YZB8wfxiIns/NLW-Copa-Explorer/duplicate). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
-
-## :memo: Licença
-
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
+Feito por Jean Carlos
